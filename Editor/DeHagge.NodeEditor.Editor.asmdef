@@ -1,0 +1,20 @@
+{
+    "name": "DeHagge.NodeEditor.Editor",
+    "references": [
+        "GUID:9ea48e9d84c530b4f8bc1e57b36856e1",
+        "GUID:002c1bbed08fa44d282ef34fd5edb138",
+        "GUID:b8e24fd1eb19b4226afebb2810e3c19b",
+        "GUID:a49fd1d25e23fd14e85d1cbf342bb06f"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
