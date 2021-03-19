@@ -2,7 +2,7 @@
 
 namespace Packages.com.dehagge.nodeeditor.Runtime
 {
-    public class Node : XNode.Node
+    public abstract class Node : XNode.Node
     {
         public Guid Guid;
 
